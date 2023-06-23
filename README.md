@@ -13,8 +13,8 @@ The different parameters of the URI can be input from a YAML file. Format of the
 ```
 scheme: <scheme> --  eg. https or appScheme
 authority: <authority> -- eg. upiPayment
-path: <path> -- eg. this/is/my/path/ (Note: There  should not be any '/' at the  start of the path)
-params:
+path: <path> -- eg. this/is/my/path/ (Note: There  should not be any '/' at the  start of the path) [Optional]
+params: [Optional]
   param1: myParam1
   param2: https://www.google.com
   backgroundColor: #ffffff
