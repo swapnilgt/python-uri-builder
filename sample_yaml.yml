@@ -1,0 +1,12 @@
+scheme: payzapp
+authority: myAuthority
+path: this/is/my/path/
+params:
+  type: FULL_SCREEN_IMAGE_BANNER
+  ctaUri: https://www.google.com
+  ctaText: Now or Never!
+  ctaButtonColor: #ffffff
+  ctaTextColor: #000342
+  campaignName: myTestCampaign
+  backgroundColor: #ffffff
+  bannerImageUri: https://ik.imagekit.io/sdai9siq9/RuPay_CC_Landing_Page_-_No_Button.png?updatedAt=1686101761767
