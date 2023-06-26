@@ -17,7 +17,7 @@ path: <path> -- eg. this/is/my/path/ (Note: There  should not be any '/' at the 
 params: **[Optional]**
   param1: myParam1
   param2: https://www.google.com
-  backgroundColor: #ffffff
+  backgroundColor: '#ffffff' - Note: the color code needs to be within single quotes.
 ```
 **Note**: There is a sample yaml file present  in the repository.
 
